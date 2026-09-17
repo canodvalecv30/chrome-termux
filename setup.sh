@@ -10,3 +10,5 @@ ln -s $PREFIX/lib/chromium/chrome-wrapper $PREFIX/bin/
 ln -s $PREFIX/lib/chromium/chromedriver $PREFIX/bin/
 ln -s $PREFIX/lib/chromium/chromium-launcher.sh $PREFIX/bin/chromium-browser
 echo "to run chrome, type \"chrome\" or \"chromium-browser\""
+
+
